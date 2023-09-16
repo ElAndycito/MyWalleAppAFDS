@@ -1,4 +1,4 @@
-package com.ManuelPedraa.mywalleapp;
+package com.andresito.mywalleapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 

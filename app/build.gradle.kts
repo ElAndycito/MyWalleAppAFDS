@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.ManuelPedraa.mywalleapp"
+    namespace = "com.andresito.mywalleapp"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.ManuelPedraa.mywalleapp"
+        applicationId = "com.andresito.mywalleapp"
         minSdk = 26
         targetSdk = 33
         versionCode = 1
